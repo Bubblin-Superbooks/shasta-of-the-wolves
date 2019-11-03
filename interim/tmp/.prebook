@@ -4,10 +4,6 @@
     "innerHtml": "Chapter I"
   },
   {
-    "tag": "p",
-    "innerHtml": "###"
-  },
-  {
     "tag": "h3",
     "innerHtml": "The Wolf-child"
   },
@@ -78,10 +74,6 @@
   {
     "tag": "h4",
     "innerHtml": "Chapter II"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "###"
   },
   {
     "tag": "h3",
@@ -158,10 +150,6 @@
   {
     "tag": "h4",
     "innerHtml": "Chapter III"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "###"
   },
   {
     "tag": "h3",
@@ -309,10 +297,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "###"
-  },
-  {
-    "tag": "p",
     "innerHtml": "OF THE FIGHT"
   },
   {
@@ -346,10 +330,6 @@
   {
     "tag": "h4",
     "innerHtml": "Chapter V"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "###"
   },
   {
     "tag": "p",
@@ -524,10 +504,6 @@
     "innerHtml": "Chapter VI"
   },
   {
-    "tag": "p",
-    "innerHtml": "###"
-  },
-  {
     "tag": "h3",
     "innerHtml": "Shasta Sings The Wolf Chorus"
   },
@@ -632,10 +608,6 @@
     "innerHtml": "Chapter VII"
   },
   {
-    "tag": "p",
-    "innerHtml": "###"
-  },
-  {
     "tag": "h3",
     "innerHtml": "Shasta Joins The Wolf Pack"
   },
@@ -724,10 +696,6 @@
     "innerHtml": "Chapter VIII"
   },
   {
-    "tag": "p",
-    "innerHtml": "###"
-  },
-  {
     "tag": "h3",
     "innerHtml": "The Voice That Was Goohooperay"
   },
@@ -786,10 +754,6 @@
   {
     "tag": "h4",
     "innerHtml": "Chapter IX"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "###"
   },
   {
     "tag": "h3",
@@ -1012,10 +976,6 @@
     "innerHtml": "Chapter X"
   },
   {
-    "tag": "p",
-    "innerHtml": "###"
-  },
-  {
     "tag": "h3",
     "innerHtml": "How Shasta Hid In Time"
   },
@@ -1070,10 +1030,6 @@
   {
     "tag": "h4",
     "innerHtml": "Chapter XI"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "###"
   },
   {
     "tag": "h3",
@@ -1142,10 +1098,6 @@
   {
     "tag": "h4",
     "innerHtml": "Chapter XII"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "###"
   },
   {
     "tag": "h3",
@@ -1334,10 +1286,6 @@
   {
     "tag": "h4",
     "innerHtml": "Chapter XIII"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "###"
   },
   {
     "tag": "h3",
@@ -1560,10 +1508,6 @@
     "innerHtml": "Chapter XIV"
   },
   {
-    "tag": "p",
-    "innerHtml": "###"
-  },
-  {
     "tag": "h3",
     "innerHtml": "Shasta Leaves His Wolf Kin"
   },
@@ -1685,10 +1629,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "###"
-  },
-  {
-    "tag": "p",
     "innerHtml": "HOW SHASTA FOUGHT MUSHA-WUNK"
   },
   {
@@ -1762,10 +1702,6 @@
   {
     "tag": "h4",
     "innerHtml": "Chapter XVI"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "###"
   },
   {
     "tag": "h3",
@@ -1896,10 +1832,6 @@
     "innerHtml": "Chapter XVII"
   },
   {
-    "tag": "p",
-    "innerHtml": "###"
-  },
-  {
     "tag": "h3",
     "innerHtml": "Shasta Goes Scouting"
   },
@@ -2026,10 +1958,6 @@
   {
     "tag": "h4",
     "innerHtml": "Chapter XVIII"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "###"
   },
   {
     "tag": "h3",
